@@ -1,2 +1,2 @@
 # iSangeet
- First Android Project
+ Music Player Application
